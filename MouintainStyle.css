@@ -1,0 +1,17 @@
+body {
+   background-color: darkgray;
+}
+h1 {
+    color: #402d1a;
+    font-size: 50px;
+}
+h2 {
+    color: #2a522a;
+    font-size: 45px;
+}
+h3 {
+    color: #575b61;
+}
+p {
+    color: forestgreen;
+}
